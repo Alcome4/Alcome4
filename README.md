@@ -1,5 +1,5 @@
 ### Hi 👋, my name is Irving Covarrubias
-#### I am Business Analyst / Data Analyst
+#### I am a Business Analyst / Data Analyst
 ![I am Business Analyst / Data Analyst](https://media.licdn.com/dms/image/v2/D4E16AQFDkGK_BwAJqg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725834889793?e=1731542400&v=beta&t=zkZKpkvWG_FHPkOUjbcb_68uvtEdYOAcTMhH6bk6s40)
 
 I'm a Bilingual (English & Spanish) professional with a Bachelor's degree in Finance and a Post Baccalaureate Diploma in Business Analytics, possessing over 9 years of experience across sales, business analytics, operations management, and financial advisory roles. Currently excelling as a Technical Sales Representative at MCI, adept at delivering exceptional customer service, utilizing technology for efficient account management, and resolving issues promptly.
