@@ -2,9 +2,16 @@
 #### I am a Business Analyst / Data Analyst
 ![I am Business Analyst / Data Analyst](https://media.licdn.com/dms/image/v2/D4E16AQFDkGK_BwAJqg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725834889793?e=1731542400&v=beta&t=zkZKpkvWG_FHPkOUjbcb_68uvtEdYOAcTMhH6bk6s40)
 
-I'm a Bilingual (English & Spanish) professional with a Bachelor's degree in Finance and a Post Baccalaureate Diploma in Business Analytics, possessing over 9 years of experience across sales, business analytics, operations management, and financial advisory roles. Currently excelling as a Technical Sales Representative at MCI, adept at delivering exceptional customer service, utilizing technology for efficient account management, and resolving issues promptly.
+I am a Junior Data Analyst with a background in financial analysis and business operations, leveraging 7 years of experience in the banking sector and 2 years in real estate management. With a passion for data-driven decision-making, I recently completed a Business Analytics degree at Cape Breton University, where I developed expertise in predictive modeling, and machine learning.
 
-I have recently honed my skills in Python, SQL, R, and Tableau to enhance my business acumen. My goal is to become a trusted business advisor, contributing to critical decision-making processes within organizations.
+My technical skills include SQL, Tableau, Python, and Databricks, with projects focused on forecasting and sales prediction using machine learning algorithms. I enjoy applying analytical insights to solve business challenges, optimize operations, and enhance profitability.
+
+Key projects:
+
+Forecasting wildfire areas using NASA weather data 
+Bigmart sales prediction using machine learning 
+
+I am actively seeking opportunities in data analysis and business intelligence where I can apply my skills to drive strategic decisions.
 
 Skills: Python / MySQL / Databricks / Microsoft Azure Databricks / Tableau
 
