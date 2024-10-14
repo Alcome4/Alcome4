@@ -8,8 +8,8 @@ My technical skills include SQL, Tableau, Python, and Databricks, with projects 
 
 Key projects:
 
-Forecasting wildfire areas using NASA weather data 
-Bigmart sales prediction using machine learning 
+- Forecasting wildfire areas using NASA weather data 
+- Bigmart sales prediction using machine learning 
 
 I am actively seeking opportunities in data analysis and business intelligence where I can apply my skills to drive strategic decisions.
 
