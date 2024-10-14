@@ -1,21 +1,23 @@
 ### Hi 👋, my name is Irving Covarrubias
-#### I am a Business Analyst / Data Analyst
+#### I am a Business Analyst / Junior Data Analyst
 ![I am Business Analyst / Data Analyst](https://media.licdn.com/dms/image/v2/D4E16AQFDkGK_BwAJqg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725834889793?e=1731542400&v=beta&t=zkZKpkvWG_FHPkOUjbcb_68uvtEdYOAcTMhH6bk6s40)
 
 I am a Junior Data Analyst with a background in financial analysis and business operations, leveraging 7 years of experience in the banking sector and 2 years in real estate management. With a passion for data-driven decision-making, I recently completed a Business Analytics degree at Cape Breton University, where I developed expertise in predictive modeling, and machine learning.
 
 My technical skills include SQL, Tableau, Python, and Databricks, with projects focused on forecasting and sales prediction using machine learning algorithms. I enjoy applying analytical insights to solve business challenges, optimize operations, and enhance profitability.
 
-Key projects:
+#### Key projects:
 
 - Forecasting wildfire areas using NASA weather data 
 - Bigmart sales prediction using machine learning 
 
 I am actively seeking opportunities in data analysis and business intelligence where I can apply my skills to drive strategic decisions.
 
-- Technical Skills: SQL, Python, Tableau, Power BI, Databricks, MLFlow, GitHub
-- Data Analysis: Predictive modeling, forecasting, regression analysis, financial modeling
-- Tools: Excel, financial risk management tools, CatBoost, machine learning
+#### - Technical Skills: SQL, Python, Tableau, Power BI, Databricks, MLFlow, GitHub
+#### - Data Analysis: Predictive modeling, forecasting, regression analysis, financial modeling
+#### - Tools: Excel, financial risk management tools, CatBoost, machine learning
+
+
 
 - 🔭 I’m currently creating new projects. 
 - 🌱 I’m currently honing my skills in Python, Tableau and Databricks. 
