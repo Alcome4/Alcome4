@@ -13,7 +13,9 @@ Bigmart sales prediction using machine learning
 
 I am actively seeking opportunities in data analysis and business intelligence where I can apply my skills to drive strategic decisions.
 
-Skills: Python / MySQL / Databricks / Microsoft Azure Databricks / Tableau
+Technical Skills: SQL, Python, Tableau, Power BI, Databricks, MLFlow, GitHub
+Data Analysis: Predictive modeling, forecasting, regression analysis, financial modeling
+Tools: Excel, financial risk management tools, CatBoost, machine learning
 
 - 🔭 I’m currently creating new projects. 
 - 🌱 I’m currently honing my skills in Python, Tableau and Databricks. 
