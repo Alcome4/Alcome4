@@ -13,7 +13,7 @@ My technical skills include SQL, Tableau, Python, and Databricks, with projects 
 
 I am actively seeking opportunities in data analysis and business intelligence where I can apply my skills to drive strategic decisions.
 
-#### - Technical Skills: SQL, Python, Tableau, Power BI, Databricks, MLFlow, GitHub
+#### - Technical Skills: SQL, Python, Tableau, Databricks, MLFlow, GitHub
 #### - Data Analysis: Predictive modeling, forecasting, regression analysis, financial modeling
 #### - Tools: Excel, financial risk management tools, CatBoost, machine learning
 
